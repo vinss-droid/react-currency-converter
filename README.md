@@ -18,7 +18,7 @@ https://currency-converterr.netlify.app/
 
 **Client:** React, Bootstrap
 
-**API:** getgeoapi.com
+**API:** currency.getgeoapi.com
 
 
 ## Screenshots
@@ -67,7 +67,7 @@ Start the server
 
 To run this project, you will need to add the following environment variables to your .env file.
 
-`REACT_API_KEY = YOUR_GETGEOAPI_API_KEY`
+`REACT_API_KEY = YOUR_CURRENCY-GETGEOAPI_API_KEY`
 
 
 ## Authors
