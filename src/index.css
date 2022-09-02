@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Source+Sans+Pro&display=swap');
+
+* {
+
+  margin: 0;
+  padding: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+/* ROOT */
+
+button.btn,
+button.btn:focus,
+button.btn:hover,
+button.btn:active,
+button.btn.btn-primary:focus,
+button.btn.btn-primary:active,
+button.btn.btn-warning:focus,
+button.btn.btn-warning:active,
+button.btn.btn-danger:focus,
+button.btn.btn-danger:active{
+
+  box-shadow: none !important;
+  border: none !important;
+  border-color: none !important;
+
+}
+
+select.form-control:focus,
+select.form-control:active,
+select.form-control:focus,
+select.form-control:active,
+select.form-control:focus,
+select.form-control:active{
+
+  box-shadow: none !important;
+
+}
+
+input.form-control:focus,
+input.form-control:active,
+input.form-control:focus,
+input.form-control:active,
+input.form-control:focus,
+input.form-control:active{
+
+  box-shadow: none !important;
+
+}
+
+.text-title {
+
+  margin-top: 38%;
+
+}
+
+.line-space-title {
+
+  letter-spacing: 6px;
+
+}
+
+.btn-get-started {
+
+  background-color: rgb(98, 22, 170) !important;
+  color: #ffff !important;
+
+}
+
+.btn-get-started:hover {
+
+  background-color: rgb(76, 14, 134) !important;
+  color: #ffff !important;
+
+}
+
+.btn-convert {
+
+  background-color: rgb(63, 36, 163) !important;
+  color: #ffff !important;
+
+}
+
+.btn-convert:hover {
+
+  background-color: rgb(49, 23, 139) !important;
+  color: #ffff !important;
+
+}
+
+.text-dark-important {
+
+  color: #000 !important;
+
+}
