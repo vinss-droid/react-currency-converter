@@ -25,15 +25,15 @@ https://currency-converterr.netlify.app/
 
 Home
 
-![App Screenshot](https://raw.githubusercontent.com/vinss-droid/react-currency-converter/main/screenshots/home.png?token=GHSAT0AAAAAABX3TDVFOE3DNS2FEZC5GY7QYYRNPAA)
+![App Screenshot](https://github.com/vinss-droid/react-currency-converter/blob/main/screenshots/home.png?raw=true)
 
 Converter
 
-![App Screenshot](https://raw.githubusercontent.com/vinss-droid/react-currency-converter/main/screenshots/converter.png?token=GHSAT0AAAAAABX3TDVED5RDXZIFJFYRQ2MGYYRNRUQ)
+![App Screenshot](https://github.com/vinss-droid/react-currency-converter/blob/main/screenshots/converter.png?raw=true)
 
 Result
 
-![App Screenshot](https://raw.githubusercontent.com/vinss-droid/react-currency-converter/main/screenshots/result.png?token=GHSAT0AAAAAABX3TDVFX5B5D264M3KC3YIQYYRNSQA)
+![App Screenshot](https://github.com/vinss-droid/react-currency-converter/blob/main/screenshots/result.png?raw=true)
 
 
 ## Run Locally
